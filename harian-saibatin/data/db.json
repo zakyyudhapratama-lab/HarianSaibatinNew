@@ -1,0 +1,72 @@
+{
+  "breaking": "Penataan Kawasan Adat dan Infrastruktur di Luar Jawa Dimulai Hari Ini",
+  "articles": [
+    {
+      "id": 1,
+      "title": "Menjaga Harapan di Tanah Adat: Revitalisasi Budaya Saibatin di Era Modern",
+      "summary": "Menjaga nilai adat di tanah Saibatin sambil membuka ruang bagi inovasi dan gaya hidup modern generasi muda...",
+      "body": "Lampung dan sekitarnya memiliki tatanan adat Saibatin yang diwariskan lintas generasi. Para tokoh adat, pemerintah daerah, dan generasi muda kini bekerja bersama menjaga nilai itu agar tetap hidup di tengah modernisasi.\n\nIsi lengkap berita dapat Anda ubah melalui API admin atau langsung di data/db.json.",
+      "category": "Nusantara",
+      "image": "",
+      "featured": true,
+      "views": 980,
+      "publishedAt": "2024-10-14T09:50:00:00+07:00"
+    },
+    {
+      "id": 2,
+      "title": "Dinamika Koalisi Baru Menjelang Pilkada Daerah",
+      "summary": "Partai-partai mulai menata komunikasi politik menjelang pendaftaran calon kepala daerah.",
+      "body": "Lampung dan sekitarnya memiliki tatanan adat Saibatin yang diwariskan lintas generasi. Para tokoh adat, pemerintah daerah, dan generasi muda kini bekerja bersama menjaga nilai itu agar tetap hidup di tengah modernisasi.\n\nIsi lengkap berita dapat Anda ubah melalui API admin atau langsung di data/db.json.",
+      "category": "Politik",
+      "image": "",
+      "featured": false,
+      "views": 640,
+      "publishedAt": "2024-10-14T09:20:00:00+07:00"
+    },
+    {
+      "id": 3,
+      "title": "Sektor UMKM Pacu Pertumbuhan Ekonomi Nasional",
+      "summary": "Pelaku usaha kecil mencatat kenaikan transaksi digital di pasar tradisional.",
+      "body": "Lampung dan sekitarnya memiliki tatanan adat Saibatin yang diwariskan lintas generasi. Para tokoh adat, pemerintah daerah, dan generasi muda kini bekerja bersama menjaga nilai itu agar tetap hidup di tengah modernisasi.\n\nIsi lengkap berita dapat Anda ubah melalui API admin atau langsung di data/db.json.",
+      "category": "Ekonomi",
+      "image": "",
+      "featured": false,
+      "views": 870,
+      "publishedAt": "2024-10-14T08:55:00:00+07:00"
+    },
+    {
+      "id": 4,
+      "title": "Melestarikan Adat Saibatin di Tengah Arus Modernisasi",
+      "summary": "Sanggar-sanggar budaya mengajak anak muda belajar tari dan busana adat.",
+      "body": "Lampung dan sekitarnya memiliki tatanan adat Saibatin yang diwariskan lintas generasi. Para tokoh adat, pemerintah daerah, dan generasi muda kini bekerja bersama menjaga nilai itu agar tetap hidup di tengah modernisasi.\n\nIsi lengkap berita dapat Anda ubah melalui API admin atau langsung di data/db.json.",
+      "category": "Budaya",
+      "image": "",
+      "featured": false,
+      "views": 760,
+      "publishedAt": "2024-10-14T08:30:00:00+07:00"
+    },
+    {
+      "id": 5,
+      "title": "Pembangunan Akses Logistik Penghubung Wilayah Terluar",
+      "summary": "Jalan tol dan pelabuhan baru memangkas waktu distribusi barang antarwilayah.",
+      "body": "Lampung dan sekitarnya memiliki tatanan adat Saibatin yang diwariskan lintas generasi. Para tokoh adat, pemerintah daerah, dan generasi muda kini bekerja bersama menjaga nilai itu agar tetap hidup di tengah modernisasi.\n\nIsi lengkap berita dapat Anda ubah melalui API admin atau langsung di data/db.json.",
+      "category": "Nusantara",
+      "image": "",
+      "featured": false,
+      "views": 510,
+      "publishedAt": "2024-10-14T07:45:00:00+07:00"
+    },
+    {
+      "id": 6,
+      "title": "Opini: Adat Bukan Beban Pembangunan",
+      "summary": "Tradisi lokal dapat menjadi modal sosial yang memperkuat kebijakan daerah.",
+      "body": "Lampung dan sekitarnya memiliki tatanan adat Saibatin yang diwariskan lintas generasi. Para tokoh adat, pemerintah daerah, dan generasi muda kini bekerja bersama menjaga nilai itu agar tetap hidup di tengah modernisasi.\n\nIsi lengkap berita dapat Anda ubah melalui API admin atau langsung di data/db.json.",
+      "category": "Opini",
+      "image": "",
+      "featured": false,
+      "views": 300,
+      "publishedAt": "2024-10-13T20:00:00:00+07:00"
+    }
+  ],
+  "subscribers": []
+}
